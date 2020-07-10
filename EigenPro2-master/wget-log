@@ -1,0 +1,11 @@
+--2020-05-15 12:17:14--  https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-repo-ubuntu1804_10.0.130-1_amd64.deb
+Resolving developer.download.nvidia.com (developer.download.nvidia.com)... 152.199.39.144
+Connecting to developer.download.nvidia.com (developer.download.nvidia.com)|152.199.39.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2940 (2.9K) [application/x-deb]
+Saving to: ‘cuda-repo-ubuntu1804_10.0.130-1_amd64.deb’
+
+     0K ..                                                    100%  110M=0s
+
+2020-05-15 12:17:15 (110 MB/s) - ‘cuda-repo-ubuntu1804_10.0.130-1_amd64.deb’ saved [2940/2940]
+
